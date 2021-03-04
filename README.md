@@ -17,7 +17,7 @@
  - Controles customizados
  - Javascript
 
- ## <form>
+ ## Tag form
 
     - Elemento que definirá um formulário
     - É um container estilo `<section> <footer>`
