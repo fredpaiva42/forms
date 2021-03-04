@@ -12,10 +12,10 @@
 
 ## Dominar
 
- - Estilização
- - Validação
- - Controles customizados
- - Javascript
+    - Estilização
+    - Validação
+    - Controles customizados
+    - Javascript
 
  ## Tag form
 
