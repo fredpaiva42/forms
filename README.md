@@ -1,16 +1,16 @@
-## Formulários
+# Formulários
 
-# Para que serve?
+## Para que serve?
 
     - Capturar dados de entrada (input)
     - Interação
     - Controle
 
-# Pré requisitos
+## Pré requisitos
 
     - Básico HTML
 
-# Dominar
+## Dominar
 
  - Estilização
  - Validação
