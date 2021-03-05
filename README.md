@@ -27,3 +27,27 @@
     - method (GET (é o padrão) e POST (os dados não aparecem na url, como no Get))
 
     * IMPORTANTE - Nunca criar um form dentro de outro form.
+
+## Fieldset
+
+    <fieldset>:
+        - agrupamento de campos
+        - mesmo propósito
+        - semântico
+        - acessibilidade
+    
+    Atributos especiais:
+        - disabled
+            * desabilita todos os elementos internos
+            * não serão enviados ao submeter o formulário
+        - form
+            * o id de um formulário ao qual esse fieldset pertence
+            * não precisa estar dentro do formulário
+        - name
+            * nome do grupo
+
+## Legend
+
+    <legend>:
+        - nome do agrupamento
+        - primeiro elemento dentro do fieldset
