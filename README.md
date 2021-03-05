@@ -75,15 +75,15 @@
         - É estilizado pelo user agent (navegador)
 
     Atributos comuns
-    - Type
-        - submit
-        - reset
-        - button
-    - autofocus
-    - disabled
-    - name
-    - value
-    - form
+        - Type
+            - submit
+            - reset
+            - button
+        - autofocus
+        - disabled
+        - name
+        - value
+        - form
 
 ## Datalist
 
