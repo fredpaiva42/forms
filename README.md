@@ -84,3 +84,25 @@
     - name
     - value
     - form
+
+## Datalist
+
+    <datalist>:
+
+        - Lista de valores como sugestão a uma tag <input>
+        - Valores sugestivos e não obrigatórios
+        - Usuários poderão selecionar um dos valores, ou colocar um valor diferente da sugestão.
+
+        ```html
+            <datalist id="fruitsdata">
+                <option>apple</option>
+                <option>banana</option>
+                <option>mango</option>
+                <option>orange</option>
+                <option>cherry</option>
+            </datalist>
+        ```
+    
+## List
+
+    - Recebe como valor o id de um <datalist> residente no mesmo documento.
