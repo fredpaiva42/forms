@@ -67,3 +67,20 @@
                 - button, input (not hidden), meter, output,
                 progress, select, textarea
             
+## Button
+
+    <button>:
+        - Representa um botão
+        - Usado para enviar formulários
+        - É estilizado pelo user agent (navegador)
+
+    Atributos comuns
+    - Type
+        - submit
+        - reset
+        - button
+    - autofocus
+    - disabled
+    - name
+    - value
+    - form
