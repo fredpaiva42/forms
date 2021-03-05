@@ -106,3 +106,17 @@
 ## List
 
     - Recebe como valor o id de um <datalist> residente no mesmo documento.
+
+## Tipos de input suportados
+
+    - text, search, url, tel, email, date, month, week, time, datetime-local, number, range e color.
+
+    * Valores de datalist que não são compatíveis com tipo do <input> não serão apresentados.
+
+## Tipos de input não suportados (conforme especificação)
+
+    - hidden, password, checkbox, radio, file, ou qualquer tipo de button
+
+## User Agent
+    
+    Verificar a compatibiliadade com o browser https://caniuse.com
