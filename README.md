@@ -93,7 +93,7 @@
         - Valores sugestivos e não obrigatórios
         - Usuários poderão selecionar um dos valores, ou colocar um valor diferente da sugestão.
 
-        ```html
+```html
             <datalist id="fruitsdata">
                 <option>apple</option>
                 <option>banana</option>
@@ -101,7 +101,7 @@
                 <option>orange</option>
                 <option>cherry</option>
             </datalist>
-        ```
+```
     
 ## List
 
